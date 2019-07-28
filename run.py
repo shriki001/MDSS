@@ -1088,10 +1088,6 @@ class Page8(Frame):
             grid(row=1, columnspan=4, pady=10, padx=50)
         Label(self, text="ID:", font="none 20"). \
             grid(row=2, column=0, pady=10)
-        Label(self, text="305599417", font="none 20"). \
-            grid(row=2, column=1, pady=10)
-        Label(self, text="2033049669", font="none 20"). \
-            grid(row=2, column=2, pady=10)
         Label(self, text="eMail:", font="none 20"). \
             grid(row=3, column=0, pady=10)
         Label(self, text="Shriki001@gmail.com", font="none 20"). \
